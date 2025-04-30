@@ -173,3 +173,5 @@ env_recsys_start/
 models/
 catboost_info/models/als_model.pkl
 user_item_matrix_train.npz
+models/als_model.pkl
+user_item_matrix_train.npz
